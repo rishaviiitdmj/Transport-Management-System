@@ -1,7 +1,6 @@
 module.exports={
-    MONGOURI:"mongodb://localhost:/transports",
-    // MONGOURI:"mongodb+srv://rishav:<password>@cluster0.jt7z6yu.mongodb.net/test",
+    // MONGOURI:"mongodb://localhost:/transports",
+    MONGOURI:"mongodb+srv://rishav:rishav130@transportmanagementsyst.xcqh9yp.mongodb.net/test",
     JWT_SECRET:"transportationproject",
-   
     
 }
